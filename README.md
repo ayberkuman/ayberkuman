@@ -44,4 +44,3 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayberkuman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
