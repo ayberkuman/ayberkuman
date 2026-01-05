@@ -9,7 +9,7 @@
 </div>
 
 ### :man_technologist: About Me :
-Frontend Dev (React / Next.js) building high-performance, production-scale web apps for startups.
+Frontend Dev (React / Next.js) building high-performance, production-scale web apps.
 - Frontend Developer with **5+ years** building production web apps, mostly in **startup environments**
 - Specialized in **React, Next.js, TypeScript**, and modern frontend architecture
 - Strong focus on **performance, micro-interactions, and rendering efficiency in complex UIs**
