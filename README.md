@@ -37,7 +37,7 @@ Frontend Engineer (React / Next.js) building high-performance, production-scale 
 ### 🛠️ Core Skills
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind, GSAP
-- **State & Data:** React Query, tRPC, GraphQL
+- **State & Data:** Tanstack Query, tRPC, GraphQL
 - **Backend:** Node.js, NestJS, REST APIs, Hono
 - **Infra:** Vercel, AWS, CI/CD, Docker
 - **Quality:** Cypress, Jest, Vitest
