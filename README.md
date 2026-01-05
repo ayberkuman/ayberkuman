@@ -1,51 +1,46 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ayberkuman/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=ayberkuman&style=flat-square&color=blue" alt=""/>
-</div>
+
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center" >
-<a  href="https://ayberk-uman.vercel.app/">check my website</a>
-</div>
----
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<a  href="https://ayberk-uman.vercel.app/">check my portfolio</a>
 </div>
 
 ### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope: Frontend developer with 4+ years of experience designing and building responsive web design and web applications.
+Frontend Engineer (React / Next.js) building high-performance, production-scale web apps for startups.
+- Frontend Engineer with **5+ years** building production web apps, mostly in **startup environments**
+- Specialized in **React, Next.js, TypeScript**, and modern frontend architecture
+- Strong focus on **performance, micro-interactions, and rendering efficiency in complex UIs**
+- Comfortable working **end-to-end** with backend APIs, CI/CD, and cloud platforms
+- Have led frontend efforts, reviewed code, and shipped features used by **thousands of users**
 
-- :seedling:I love micro interactions,cool animations and functional websites.
+<p>
+  📫 <strong>How to reach me:</strong>
+  <a href="https://www.linkedin.com/in/ayberkuman/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
+  </a>
+  &nbsp;
+  <a href="mailto:ayberkuman1@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/ayberkumanv" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="20" />
+  </a>
+</p>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayberkuman/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="NextJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Nextjs" alt="NextJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind Css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+### 🛠️ Core Skills
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind, GSAP
+- **State & Data:** React Query, tRPC, GraphQL
+- **Backend:** Node.js, NestJS, REST APIs, Hono
+- **Infra:** Vercel, AWS, CI/CD, Docker
+- **Quality:** Cypress, Jest, Vitest
 ---
 
 
