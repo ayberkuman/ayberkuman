@@ -33,7 +33,6 @@ Frontend Dev (React / Next.js) building high-performance, production-scale web a
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
 ### 🛠️ Core Skills
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind, GSAP
