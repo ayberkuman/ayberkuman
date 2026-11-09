@@ -1,45 +1,37 @@
+<h1 align="center">Ayberk Uman</h1>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center" >
-<a  href="https://ayberk-uman.vercel.app/">check my portfolio</a>
-</div>
-
-### :man_technologist: About Me :
-Frontend Dev (React / Next.js) building high-performance, production-scale web apps.
-- Frontend Developer with **5+ years** building production web apps, mostly in **startup environments**
-- Specialized in **React, Next.js, TypeScript**, and modern frontend architecture
-- Strong focus on **performance, micro-interactions, and rendering efficiency in complex UIs**
-- Comfortable working **end-to-end** with backend APIs, CI/CD, and cloud platforms
-- Have led frontend efforts, reviewed code, and shipped features used by **thousands of users**
-
-<p>
-  📫 <strong>How to reach me:</strong>
-  <a href="https://www.linkedin.com/in/ayberkuman/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
-  </a>
-  &nbsp;
-  <a href="mailto:ayberkuman1@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/ayberkumanv" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="20" />
-  </a>
+<p align="center">
+  Full-stack engineer building AI products in TypeScript: LLM agents, conversational UIs, and the APIs behind them.
+  <br/><br/>
+  <a href="https://ayberk-uman.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ayberkuman/">LinkedIn</a> ·
+  <a href="mailto:ayberkuman1@gmail.com">Email</a> ·
+  <a href="https://x.com/ayberkumanv">X</a>
 </p>
 
 ---
 
-### 🛠️ Core Skills
+### About
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind, GSAP
-- **State & Data:** Tanstack Query, tRPC, GraphQL
-- **Backend:** Node.js, NestJS, REST APIs, Hono
-- **Infra:** Vercel, AWS, CI/CD, Docker
-- **Quality:** Cypress, Jest, Vitest
----
+- **6+ years** shipping production web apps in startups, from first engineering hire to team lead
+- Full-stack: **React / Next.js** frontends and **Node.js** backends (NestJS, Hono, Express) on **PostgreSQL**
+- Building **LLM-powered products**: agent orchestration with tool calling and structured outputs, plus the real-time UIs people use to supervise them
+- Own the path to production: architecture, CI/CD, monitoring, and cloud infrastructure
+- Led teams, reviewed code, and shipped features used by **thousands of users**
 
+### Recent work
 
+- **[Patiento](https://patiento.app)**: AI sales and support assistant for health-tourism clinics, live with a paying clinic. An LLM agent talks to patients on WhatsApp and keeps a structured profile of each lead. Co-architected the agent pipeline (OpenAI Responses API, strict structured outputs, bounded tool-calling loop); built the real-time operator dashboard and per-workload LLM usage metering.
+  <br/>*Next.js · React · Hono · Bun · Drizzle · PostgreSQL · WebSockets*
+- **[Nureply](https://nureply.com)**: AI cold-email platform. First engineering hire, grew into team lead; moved from frontend to full-stack, maintaining the NestJS backend and shipping AI personalization that writes a unique email for every prospect.
+- **Rezzume.ai**: co-founded and built an AI resume SaaS with paying users: real-time WebSocket editor, pixel-accurate PDF generation, Stripe billing, analytics.
+  <br/>*Next.js · tRPC · Prisma · PostgreSQL · Cloudflare R2 · Railway*
+
+### Stack
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind, TanStack Query, Motion, GSAP
+- **Backend:** Node.js, Bun, NestJS, Hono, Express, tRPC, GraphQL, REST, WebSockets
+- **Data:** PostgreSQL, Prisma, Drizzle
+- **AI:** OpenAI API (Responses, tool calling, structured outputs), Vercel AI SDK, RAG
+- **Infra:** AWS, Google Cloud, Cloudflare R2, Vercel, Railway, Docker, CI/CD
+- **Quality:** Vitest, Jest, Cypress
