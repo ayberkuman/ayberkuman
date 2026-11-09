@@ -6,7 +6,6 @@
   <a href="https://ayberk-uman.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/ayberkuman/">LinkedIn</a> ·
   <a href="mailto:ayberkuman1@gmail.com">Email</a> ·
-  <a href="https://x.com/ayberkumanv">X</a>
 </p>
 
 ---
